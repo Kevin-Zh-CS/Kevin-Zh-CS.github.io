@@ -84,7 +84,43 @@
 
     }
 
+}
 
+.paper-box-new {
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+    }
+    .paper {
+        margin-bottom: 20px;
+    }
+    .sec-conference {
+        font-weight: bold;
+        font-size: 12px;
+        color: #fff;
+        padding: 5px 10px;
+        border-radius: 5px;
+        background: linear-gradient(45deg, #2a7ae2, #4b9ff5);
+        display: inline-block;
+    }
+    .ai-conference {
+        font-weight: bold;
+        font-size: 12px;
+        color: #fff;
+        padding: 5px 10px;
+        border-radius: 5px;
+        background: linear-gradient(45deg, #da6d2d, #e44a44);
+        display: inline-block;
+    }
+    .title {
+        font-weight: bold;
+        // font-style: italic; /* 如果需要斜体可以保留此行 */
+    }
+    .authors {
+        font-style: italic;
+        color: #555;
+        margin-left: 10px; /* 可选：让作者信息稍微缩进 */
+    }
 }
 
 $scroll_offset : 2em;
