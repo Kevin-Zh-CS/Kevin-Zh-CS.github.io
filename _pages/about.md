@@ -46,7 +46,7 @@ I'm a 3-year PhD student in computer science at the [Zhejiang University](https:
     <a href="https://eprint.iacr.org/2024/136" class="link">Paper</a> | 
     <a href="https://github.com/zju-abclab/NEXUS" class="link">Code</a>
     </span>
-  <div class="authors">Jiawen Zhang, Xinpeng Yang, Lipeng He, Kejia Chen, Wen-jie Lu, Yinghao Wang, Xiaoyang Hou, Jian Liu, Kui Ren, Xiaohu Yang</div>
+  <div class="authors"><b>Jiawen Zhang</b>, Xinpeng Yang, Lipeng He, Kejia Chen, Wen-jie Lu, Yinghao Wang, Xiaoyang Hou, Jian Liu, Kui Ren, Xiaohu Yang</div>
 </div>
 <br>
 <div class="paper-box-new">
@@ -56,7 +56,7 @@ I'm a 3-year PhD student in computer science at the [Zhejiang University](https:
     <a href="https://openreview.net/pdf?id=HASQ93Is7JT" class="link">Paper</a> | 
     <a href="https://github.com/Kevin-Zh-CS/SecPE" class="link">Code</a>
     </span>
-  <div class="authors">Jiawen Zhang*, Kejia Chen*, Zunlei Feng, Mingli Song, Jian Lou, Jian Liu, Xiaohu Yang</div>
+  <div class="authors"><b>Jiawen Zhang*</b>, Kejia Chen*, Zunlei Feng, Mingli Song, Jian Lou, Jian Liu, Xiaohu Yang</div>
 </div>
 
 
