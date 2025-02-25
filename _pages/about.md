@@ -28,27 +28,32 @@ I'm a 3-year PhD student in computer science at the [Zhejiang University](https:
 # 📝 Publications 
 ( * indicates equal contribution.)
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class="paper-box-new">
+  <span class="ai-conference ">Arxiv</span>
+  <span class="title">
+    Activation Approximations Can Incur Safety Vulnerabilities in Aligned LLMs: Comprehensive Analysis and Defense ｜
+    <a href="https://www.arxiv.org/abs/2502.00840" class="link">Paper</a> 
+    </span>
+  <div class="authors"><b>Jiawen Zhang*</b>, Kejia Chen*, Lipeng He*, Jian Lou, Dan Li, Zunlei Feng, Mingli Song, Jian Liu, Kui Ren, Xiaohu Yang</div>
 </div>
-</div> -->
+
+<br>
+
 <div class="paper-box-new">
   <span class="sec-conference ">NDSS 2025</span>
   <span class="title">
     Secure Transformer Inference Made Non-interactive ｜
     <a href="https://eprint.iacr.org/2024/136" class="link">Paper</a> | 
     <a href="https://github.com/zju-abclab/NEXUS" class="link">Code</a>
+      <span>
+        <img src="https://img.shields.io/github/stars/zju-abclab/NEXUS?style=social" alt="GitHub stars">
+      </span>
     </span>
   <div class="authors"><b>Jiawen Zhang</b>, Xinpeng Yang, Lipeng He, Kejia Chen, Wen-jie Lu, Yinghao Wang, Xiaoyang Hou, Jian Liu, Kui Ren, Xiaohu Yang</div>
 </div>
+
 <br>
+
 <div class="paper-box-new">
   <span class="ai-conference ">ECAI 2024</span>
   <span class="title">
