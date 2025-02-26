@@ -17,7 +17,7 @@ redirect_from:
 
 <!-- <span class='anchor' id='about-me'></span> -->
 # About Me
-I'm a 3-year PhD student in computer science at the [Zhejiang University](https://www.zju.edu.cn/english/), advised by Prof. [Xiaohu Yang](https://dblp.org/pid/95/6761.html) and Prof. [Jian Liu](https://jianliu.phd/). Before that, I received my Bachelor’s degree at Zhejiang University in 2022, advised by Prof. [Xiaohu Yang](https://dblp.org/pid/95/6761.html). My research interest includes trustworthy machine learning, applied cryptography and blockchain.
+I'm a 3-year PhD student in computer science at the [Zhejiang University](https://www.zju.edu.cn/english/), advised by Prof. [Xiaohu Yang](https://person.zju.edu.cn/en/xiaohu) and Prof. [Jian Liu](https://jianliu.phd/). Before that, I received my Bachelor’s degree at Zhejiang University in 2022, advised by Prof. [Xiaohu Yang](https://dblp.org/pid/95/6761.html). My research interest includes trustworthy machine learning, applied cryptography and blockchain.
 
 
 <!-- # 🔥 News
@@ -29,7 +29,7 @@ I'm a 3-year PhD student in computer science at the [Zhejiang University](https:
 ( * indicates equal contribution.)
 
 <div class="paper-box-new">
-  <span class="ai-conference ">Arxiv</span>
+  <span class="ai-conference ">Preprint</span>
   <span class="title">
     Activation Approximations Can Incur Safety Vulnerabilities in Aligned LLMs: Comprehensive Analysis and Defense ｜
     <a href="https://www.arxiv.org/abs/2502.00840" class="link">Paper</a> 
@@ -55,13 +55,25 @@ I'm a 3-year PhD student in computer science at the [Zhejiang University](https:
 <br>
 
 <div class="paper-box-new">
-  <span class="ai-conference ">ECAI 2024</span>
+  <span class="sec-conference ">ECAI 2024</span>
   <span class="title">
     SecPE: Secure Prompt Ensembling for Private and Robust Large Language Model ｜
     <a href="https://openreview.net/pdf?id=HASQ93Is7JT" class="link">Paper</a> | 
     <a href="https://github.com/Kevin-Zh-CS/SecPE" class="link">Code</a>
     </span>
   <div class="authors"><b>Jiawen Zhang*</b>, Kejia Chen*, Zunlei Feng, Mingli Song, Jian Lou, Jian Liu, Xiaohu Yang</div>
+</div>
+
+<br>
+
+<div class="paper-box-new">
+  <span class="sec-conference ">BCRA 2024</span>
+  <span class="title">
+    SmartZKCP: Towards Practical Data Exchange Marketplace Against Active Attacks ｜
+    <a href="https://eprint.iacr.org/2024/941" class="link">Paper</a> | 
+    <a href="https://github.com/Blockchain-Research-Center/SmartZKCP" class="link">Code</a>
+    </span>
+  <div class="authors">Xuanming Liu*, <b>Jiawen Zhang*</b>, Yinghao Wang, Xinpeng Yang, Xiaohu Yang</div>
 </div>
 
 
