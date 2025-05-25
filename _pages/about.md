@@ -29,6 +29,21 @@ I'm a 3-year PhD student in computer science at the [Zhejiang University](https:
 ( * indicates equal contribution.)
 
 <div class="paper-box-new">
+  <span class="ai-conference ">NDSS 2025</span>
+  <span class="title">
+    Secure Transformer Inference Made Non-interactive ｜
+    <a href="https://eprint.iacr.org/2024/136" class="link">Paper</a> | 
+    <a href="https://github.com/zju-abclab/NEXUS" class="link">Code</a>
+      <span>
+        <img src="https://img.shields.io/github/stars/zju-abclab/NEXUS?style=social" alt="GitHub stars">
+      </span>
+    </span>
+  <div class="authors"><b>Jiawen Zhang</b>, Xinpeng Yang, Lipeng He, Kejia Chen, Wen-jie Lu, Yinghao Wang, Xiaoyang Hou, Jian Liu, Kui Ren, Xiaohu Yang</div>
+</div>
+
+<br>
+
+<div class="paper-box-new">
   <span class="ai-conference ">Preprint</span>
   <span class="title">
     Activation Approximations Can Incur Safety Vulnerabilities in Aligned LLMs: Comprehensive Analysis and Defense ｜
@@ -40,16 +55,12 @@ I'm a 3-year PhD student in computer science at the [Zhejiang University](https:
 <br>
 
 <div class="paper-box-new">
-  <span class="sec-conference ">NDSS 2025</span>
+  <span class="ai-conference ">ICML 2025</span>
   <span class="title">
-    Secure Transformer Inference Made Non-interactive ｜
-    <a href="https://eprint.iacr.org/2024/136" class="link">Paper</a> | 
-    <a href="https://github.com/zju-abclab/NEXUS" class="link">Code</a>
-      <span>
-        <img src="https://img.shields.io/github/stars/zju-abclab/NEXUS?style=social" alt="GitHub stars">
-      </span>
+    Assessing Safety Risks and Quantization-aware Safety Patching for Quantized Large Language Models ｜
+    <a href="https://icml.cc/virtual/2025/poster/44278" class="link">Paper</a> 
     </span>
-  <div class="authors"><b>Jiawen Zhang</b>, Xinpeng Yang, Lipeng He, Kejia Chen, Wen-jie Lu, Yinghao Wang, Xiaoyang Hou, Jian Liu, Kui Ren, Xiaohu Yang</div>
+  <div class="authors">Kejia Chen*, <b>Jiawen Zhang*</b>, Jiacong Hu, Yu Wang, Mingli Song, Jian Lou, Zunlei Feng</div>
 </div>
 
 <br>
@@ -92,4 +103,4 @@ I'm a 3-year PhD student in computer science at the [Zhejiang University](https:
 # 💻 Internships
 - *2021.09 - 2022.06*, Hyperchain, Blockchain R.D Engineer, Hangzhou
 - *2021.05 - 2021.09*, Meituan, Software Engineer, Shanghai
-- *2021.02 - 2021.05*, Alibaba Group, Software Engineer, Hangzhou
+<!-- - *2021.02 - 2021.05*, Alibaba Group, Software Engineer, Hangzhou -->
