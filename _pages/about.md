@@ -29,7 +29,18 @@ I'm a 3-year PhD student in computer science at the [Zhejiang University](https:
 ( * indicates equal contribution.)
 
 <div class="paper-box-new">
-  <span class="ai-conference ">NDSS 2025</span>
+  <span class="ai-conference ">USENIX Sec'25</span>
+  <span class="title">
+    Activation Approximations Can Incur Safety Vulnerabilities in Aligned LLMs: Comprehensive Analysis and Defense ｜
+    <a href="https://www.arxiv.org/abs/2502.00840" class="link">Paper</a> 
+    </span>
+  <div class="authors"><b>Jiawen Zhang*</b>, Kejia Chen*, Lipeng He*, Jian Lou, Dan Li, Zunlei Feng, Mingli Song, Jian Liu, Kui Ren, Xiaohu Yang</div>
+</div>
+
+<br>
+
+<div class="paper-box-new">
+  <span class="ai-conference ">NDSS'25</span>
   <span class="title">
     Secure Transformer Inference Made Non-interactive ｜
     <a href="https://eprint.iacr.org/2024/136" class="link">Paper</a> | 
@@ -44,18 +55,7 @@ I'm a 3-year PhD student in computer science at the [Zhejiang University](https:
 <br>
 
 <div class="paper-box-new">
-  <span class="ai-conference ">Preprint</span>
-  <span class="title">
-    Activation Approximations Can Incur Safety Vulnerabilities in Aligned LLMs: Comprehensive Analysis and Defense ｜
-    <a href="https://www.arxiv.org/abs/2502.00840" class="link">Paper</a> 
-    </span>
-  <div class="authors"><b>Jiawen Zhang*</b>, Kejia Chen*, Lipeng He*, Jian Lou, Dan Li, Zunlei Feng, Mingli Song, Jian Liu, Kui Ren, Xiaohu Yang</div>
-</div>
-
-<br>
-
-<div class="paper-box-new">
-  <span class="ai-conference ">ICML 2025</span>
+  <span class="ai-conference ">ICML'25</span>
   <span class="title">
     Assessing Safety Risks and Quantization-aware Safety Patching for Quantized Large Language Models ｜
     <a href="https://icml.cc/virtual/2025/poster/44278" class="link">Paper</a> 
@@ -66,7 +66,7 @@ I'm a 3-year PhD student in computer science at the [Zhejiang University](https:
 <br>
 
 <div class="paper-box-new">
-  <span class="sec-conference ">ECAI 2024</span>
+  <span class="sec-conference ">ECAI'24</span>
   <span class="title">
     SecPE: Secure Prompt Ensembling for Private and Robust Large Language Model ｜
     <a href="https://openreview.net/pdf?id=HASQ93Is7JT" class="link">Paper</a> | 
@@ -78,7 +78,7 @@ I'm a 3-year PhD student in computer science at the [Zhejiang University](https:
 <br>
 
 <div class="paper-box-new">
-  <span class="sec-conference ">BCRA 2024</span>
+  <span class="sec-conference ">BCRA'24</span>
   <span class="title">
     SmartZKCP: Towards Practical Data Exchange Marketplace Against Active Attacks ｜
     <a href="https://eprint.iacr.org/2024/941" class="link">Paper</a> | 
