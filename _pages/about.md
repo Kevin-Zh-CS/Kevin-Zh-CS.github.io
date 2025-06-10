@@ -32,7 +32,8 @@ I'm a 3-year PhD student in computer science at the [Zhejiang University](https:
   <span class="ai-conference ">USENIX Sec'25</span>
   <span class="title">
     Activation Approximations Can Incur Safety Vulnerabilities in Aligned LLMs: Comprehensive Analysis and Defense ｜
-    <a href="https://www.arxiv.org/abs/2502.00840" class="link">Paper</a> 
+    <a href="https://www.arxiv.org/abs/2502.00840" class="link">Paper</a> |
+    <a href="https://github.com/Kevin-Zh-CS/QuadA" class="link">Code</a>
     </span>
   <div class="authors"><b>Jiawen Zhang*</b>, Kejia Chen*, Lipeng He*, Jian Lou, Dan Li, Zunlei Feng, Mingli Song, Jian Liu, Kui Ren, Xiaohu Yang</div>
 </div>
