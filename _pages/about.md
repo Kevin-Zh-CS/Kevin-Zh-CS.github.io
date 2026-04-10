@@ -31,6 +31,18 @@ My research interest includes Trustworthy AI, Blockchain, and Applied Cryptograp
 ( * indicates equal contribution.)
 
 <div class="paper-box-new">
+  <span class="sec-conference ">CCS'26</span>
+  <span class="title">
+    Understanding and Preserving Safety in Fine-Tuned LLMs｜
+    <a href="https://arxiv.org/abs/2601.10141" class="link">Paper</a> |
+    <a href="https://github.com/Kevin-Zh-CS/safety-at-one-shot" class="link">Code</a>
+    </span>
+  <div class="authors"><b>Jiawen Zhang</b>, Yangfan Hu, Kejia Chen, Lipeng He, Jiachen Ma, Jian Lou, Dan Li, Jian Liu, Xiaohu Yang, Ruoxi Jia</div>
+</div>
+
+<br>
+
+<div class="paper-box-new">
   <span class="ai-conference ">ICLR'26</span>
   <span class="title">
     Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance｜
@@ -61,7 +73,7 @@ My research interest includes Trustworthy AI, Blockchain, and Applied Cryptograp
     <a href="https://eprint.iacr.org/2024/136" class="link">Paper</a> | 
     <a href="https://github.com/zju-abclab/NEXUS" class="link">Code</a>
       <span>
-        <img src="https://img.shields.io/github/stars/zju-abclab/NEXUS?style=social" alt="GitHub stars">
+        <img src="https://img.shields.io/badge/citations-100+-blue?logo=google-scholar&logoColor=white">
       </span>
     </span>
   <div class="authors"><b>Jiawen Zhang</b>, Xinpeng Yang, Lipeng He, Kejia Chen, Wen-jie Lu, Yinghao Wang, Xiaoyang Hou, Jian Liu, Kui Ren, Xiaohu Yang</div>
