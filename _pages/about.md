@@ -72,11 +72,15 @@ My research interest includes Trustworthy AI, Blockchain, and Applied Cryptograp
     Secure Transformer Inference Made Non-interactive ｜
     <a href="https://eprint.iacr.org/2024/136" class="link">Paper</a> | 
     <a href="https://github.com/zju-abclab/NEXUS" class="link">Code</a>
-      <span>
-        <img src="https://img.shields.io/badge/citations-100+-blue?logo=google-scholar&logoColor=white">
-      </span>
+    <span>
+      <img src="https://img.shields.io/badge/citations-100+-blue?logo=google-scholar&logoColor=white" style="vertical-align: middle;">
     </span>
+  </span>
   <div class="authors"><b>Jiawen Zhang</b>, Xinpeng Yang, Lipeng He, Kejia Chen, Wen-jie Lu, Yinghao Wang, Xiaoyang Hou, Jian Liu, Kui Ren, Xiaohu Yang</div>
+  <span style="color: red; font-weight: bold; margin-left: 10px; display: block; margin-top: 5px;">
+    🏅 Normalized Top-100 Security Papers 
+    <a href="https://www.mlsec.org/topnotch/sec_ntop100.html" style="font-weight: bold; text-decoration: none; margin-left: 5px;">| Ranking</a>
+  </span>
 </div>
 
 <br>
